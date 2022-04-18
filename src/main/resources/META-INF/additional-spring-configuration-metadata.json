@@ -1,0 +1,9 @@
+{
+  "properties": [
+    {
+      "name": "db.repository.name",
+      "type": "java.lang.String",
+      "description": "Description for db.repository.name."
+    }
+  ]
+}
